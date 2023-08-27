@@ -1,0 +1,17 @@
+******* credit dataset (classification) ********
+
+This is a dataset collected from a financial company, it contains 1600 data points with 13 columns.
+
+Customer ID: Unique customer identifier ranging from 1 to 1600
+Credit Limit: The  credit limit for the customer
+Gender: Customer gender
+Education: Customer education level
+Marriage Status: Customer marital status
+Age: Rotational Customer age
+Bill_Amount1: Customer credit card bill amount 1 month ago
+Bill_Amount2: Customer credit card bill amount 2 month ago
+Bill_Amount3: Customer credit card bill amount 3 month ago
+Pay_Amount1: The amount customer paid 1 month ago
+Pay_Amount2: The amount customer paid 2 month ago
+Pay_Amount3: The amount customer paid 3 month ago
+Default payment next month: Whether customer will default next month, 1 means default (customer will not pay the bill), 0 means non default (customer will pay the bill)
